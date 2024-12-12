@@ -1,9 +1,9 @@
 --[[
 Description: Test
-Version: 1.0
+Version: 1.1
 Author: LSMJ
 Changelog:
-    Init
+    Added: Hello World
 --]]
 
 -- Licensed under the GNU GPL v3
