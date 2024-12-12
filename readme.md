@@ -6,4 +6,4 @@ My collection of scripts for REAPER.
 
 Copy and paste this URL in Extensions > ReaPack > Import a repository:
 
-    https://github.com/lsmj/LSMJ-ReaScripts/raw/master/index.xml
+    https://raw.githubusercontent.com/lsmj/LSMJ-ReaPack-scripts/refs/heads/main/index.xml

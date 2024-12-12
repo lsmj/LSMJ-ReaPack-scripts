@@ -8,3 +8,4 @@ Changelog:
 
 -- Licensed under the GNU GPL v3
 
+reaper.ShowConsoleMsg("Hello World!")
