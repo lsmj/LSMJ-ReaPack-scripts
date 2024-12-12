@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="LSMJ ReaScripts"/>
+<index version="1" name="LSMJ ReaPack scripts" commit="70c6160b186d301ccf83150240591bb2de2a26ec">
+  <category name="General">
+    <reapack name="LSMJ-Test.lua" type="script" desc="Test">
+      <version name="1.0" author="LSMJ" time="2024-12-12T14:09:23Z">
+        <changelog><![CDATA[Init]]></changelog>
+        <source main="main">https://github.com/lsmj/LSMJ-ReaPack-scripts/raw/70c6160b186d301ccf83150240591bb2de2a26ec/General/LSMJ-Test.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
