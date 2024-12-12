@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="LSMJ ReaPack scripts" commit="ccbb8a465d67444e0dd1b0b36ec9a68cdc372858">
+<index version="1" name="LSMJ ReaPack scripts" commit="90fdff55a23e1291abc7ad44dab54063586c93fc">
   <category name="General">
     <reapack name="LSMJ-Test.lua" type="script" desc="Test">
       <version name="1.0" author="LSMJ" time="2024-12-12T14:09:23Z">
@@ -9,6 +9,10 @@
       <version name="1.1" author="LSMJ" time="2024-12-12T14:24:33Z">
         <changelog><![CDATA[Added: Hello World]]></changelog>
         <source main="main">https://github.com/lsmj/LSMJ-ReaPack-scripts/raw/ccbb8a465d67444e0dd1b0b36ec9a68cdc372858/General/LSMJ-Test.lua</source>
+      </version>
+      <version name="1.2" author="LSMJ" time="2024-12-12T14:40:29Z">
+        <changelog><![CDATA[Added: Hello World]]></changelog>
+        <source main="main">https://github.com/lsmj/LSMJ-ReaPack-scripts/raw/90fdff55a23e1291abc7ad44dab54063586c93fc/General/LSMJ-Test.lua</source>
       </version>
     </reapack>
   </category>
