@@ -1,6 +1,6 @@
 --[[
 Description: Test
-Version: 1.1
+Version: 1.2
 Author: LSMJ
 Changelog:
     Added: Hello World
@@ -8,4 +8,4 @@ Changelog:
 
 -- Licensed under the GNU GPL v3
 
-reaper.ShowConsoleMsg("Hello World!")
+reaper.ShowConsoleMsg("Hello Worlds!")
